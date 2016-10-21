@@ -1,0 +1,6 @@
+<?php
+
+//szigorúan korhatáros php
+
+
+?>
